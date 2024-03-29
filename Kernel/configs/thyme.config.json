@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Utsav）",
-      "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
-      "branch": "android13-stable",
+      "name": "Xiaomi10S（Voyager）",
+      "repo": "https://github.com/CrackerCat/Kernel_Xiaomi_sm8250_S",
+      "branch": "staging",
       "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "defconfig": "thyme-stock_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
