@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Voyager）",
-      "repo": "https://github.com/CrackerCat/Kernel_Xiaomi_sm8250_S",
-      "branch": "staging",
+      "repo": "https://github.com/Rohail33/Realking_kernel_sm8250",
+      "branch": "main",
       "device": "thyme",
-      "defconfig": "thyme-stock_defconfig"
+      "defconfig": "thyme_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
